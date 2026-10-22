@@ -19,3 +19,5 @@ IMPORTANT BEFORE PUBLIC LAUNCH
 - Event slots are placeholders, not claims of completed work.
 - XP logo is a typographic wordmark; replace with your official artwork when available.
 - All contact actions open the user's phone/email/Instagram; no backend contact form is present.
+
+HOMEPAGE LOGO: assets/xp-cosmic-logo.png uses the supplied circular artwork with the white outer area removed. The homepage includes CSS animations for star twinkles, aura pulsing and gentle floating; animations stop for reduced-motion accessibility settings.
